@@ -51,6 +51,6 @@
     ".*"
   ],
   "workers": [
-    "https://api.delivrjs.workers.dev"
+    "https://api.delivrjs.workers.dev","https://my-worker.laven96963898.workers.dev"
   ]
 }
