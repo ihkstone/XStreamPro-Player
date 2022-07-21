@@ -51,6 +51,6 @@
     ".*"
   ],
   "workers": [
-    "https://api.delivrjs.workers.dev"
+    "https://wild-wave-cd5a.itunes-apps.workers.dev"
   ]
 }
